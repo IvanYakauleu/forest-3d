@@ -53,8 +53,6 @@ export default function Home() {
             style={{ backgroundImage: 'url(/layer-6.png)' }}></div>
         </div>
       </section>
-
-      <div style={{ height: '100vh' }}></div>
     </main>
   );
 }
